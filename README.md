@@ -1,2 +1,2 @@
 # Netflix
-Create a responsive Netflix Clone using Html, Css, JS.
+Thank You for visiting this.
